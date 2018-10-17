@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="sqlite_jdbc-165f6c3c841-7178f3213424af15" provider="generic" driver="sqlite_jdbc" name="SQLite - db.sqlite3" save-password="true" read-only="false">
+		<connection server="" database="/home/axpouser/eclipse-workspace/mysite/db.sqlite3" url="jdbc:sqlite:/home/axpouser/eclipse-workspace/mysite/db.sqlite3" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
